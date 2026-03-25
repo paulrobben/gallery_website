@@ -1,9 +1,10 @@
-![Astro Photo Grid Preview](./public/cover.png)
 
-## Code von der Fotogallerie von Paul Robben.
+# Code von der Fotogallerie von Paul Robben.
 
 Alle Fotos CC-BY-4.0 Paul Robben.
 Der Code basiert auf dem Astro Photo Grid :arrow_down:
+
+![Astro Photo Grid Preview](./public/cover.png)
 
 # Astro Photo Grid
 
