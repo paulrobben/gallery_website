@@ -1,5 +1,10 @@
 ![Astro Photo Grid Preview](./public/cover.png)
 
+## Code von der Fotogallerie von Paul Robben.
+
+Alle Fotos CC-BY-4.0 Paul Robben.
+Der Code basiert auf dem Astro Photo Grid :arrow_down:
+
 # Astro Photo Grid
 
 A minimal, single-page photo gallery for [Astro](https://astro.build/). See the [demo](https://astro-photo-grid.netlify.app/)!
