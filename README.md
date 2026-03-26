@@ -2,7 +2,7 @@
 # Code von der Fotogallerie von Paul Robben.
 
 Alle Fotos CC-BY-4.0 Paul Robben.
-Der Code basiert auf dem Astro Photo Grid :arrow_down:
+Der Code basiert auf dem [Astro Photo Grid](https://github.com/kydecker/astro-photo-grid) :arrow_down:
 
 ![Astro Photo Grid Preview](./public/cover.png)
 
