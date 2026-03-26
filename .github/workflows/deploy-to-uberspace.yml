@@ -23,7 +23,7 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v6
       - name: Deploy using Rsync
-        uses: burnett01/rsync-deployments@6.0.0
+        uses: burnett01/rsync-deployments@8.0.4
         with:
           switches: -avrh --delete
           path: ./dist/
